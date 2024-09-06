@@ -1,5 +1,7 @@
 Hello everbody who reads this repo, here will be tips for playing minecraft with this unique and (!!!) stable mod
 
+There is also ready to play package in releases for guys whot dont wants to find all these last versions of each part of mod on curseforge.
+
 -If youre using industrialcraft2, youll encounter disappearing wires if you go over your render distance from ship or crash if your ship is disassembled. To fix it, go to mod settings, find valkyrien skies core, click on config, then on ship loading settings, then turn ON permanently loaded. This bug happens because VS has ship loading-unloading system, its main purpose is make VS playable on big servers with thousands of ships, but for some reason conflicts with industrialcraft2 and it corrputs wires on ships while unloading and kinda useless on small servers/local worlds.
 -SoundPhysics mod also breaks ships in this world, use SoundFilters instead.
 -Rudders aren't working, its not a bug and there isnt some stable solution to make they work, so use two propellers instead of one ![2024-09-06_21 40 55](https://github.com/user-attachments/assets/23fcc04c-dfc3-4bb7-8870-9925c85dc75b)
