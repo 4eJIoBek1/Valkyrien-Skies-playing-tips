@@ -17,6 +17,8 @@ and yes, two speed controllers for each propeller too, left for left and right f
 
 -If youre encountering server-side lags (when there is less than a second lag that feels even if youre server) and your ship is moving your collision can "slide" into blocks of ship and youll be throw out of ship. This bug is VERY rare, but it can happen, ive encountered it for like a two times for two months of playing
 
+-Item frames arent placable and working on ships, if youll assemble ship with item frames, theyll just drop out
+
 -Dont forget to have fun when playing
 
 
