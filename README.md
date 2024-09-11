@@ -19,6 +19,8 @@ and yes, two speed controllers for each propeller too, left for left and right f
 
 -Item frames arent placable and working on ships, if youll assemble ship with item frames, theyll just drop out
 
+-If youre playing with shaders with motion blur (SEUS Renewed for example) shader can add this blur on your ship when it moves, so turn motion blur off in shader settings
+
 -Dont forget to have fun when playing
 
 
